@@ -1,3 +1,9 @@
 h1 {
 	color:green;
+	font-size:26px;
+}
+
+p {
+	font-size:10px;
+	color:red;
 }
